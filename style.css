@@ -42,14 +42,14 @@ p {
     color: black;
 }
 
-#logoImage {
+#UMDImage {
     max-width: 400px;
     border-radius: 3%;
     margin-bottom: 1rem;
     transition: transform 0.3s ease;
 }
 
-#logoImage:hover {
+#UMDImage:hover {
     transform: scale(1.05);
 }
 
@@ -80,6 +80,10 @@ p {
 
     p {
         font-size: 1rem;
+    }
+
+    #UMDImage {
+        max-width: 90%;
     }
 
     #projectsLinks a {
