@@ -216,6 +216,17 @@ hr {
     border: 0.1rem solid silver;
 }
 
+#link {
+    position: absolute;
+    top: 20px;
+    right: 3%;
+    background-color: white;
+    z-index: 10;
+    padding: 10px;
+    border: 1px solid black;
+    max-width: 90%;
+}
+
 #projects {
     width: 90rem;
     margin: 1rem;
