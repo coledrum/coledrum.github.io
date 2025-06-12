@@ -17,13 +17,6 @@ body {
     left: 53.05rem;
 }
 
-#TutoringLogo {
-    height: 7rem;
-    margin-top: 1rem;
-    margin-left: 1rem;
-    margin-bottom: 2rem;
-}
-
 #imageThree {
     height: 10rem;
     position: absolute;
@@ -71,6 +64,20 @@ body {
     height: 8.7rem;
 }
 
+#ARLLogo {
+    height: 7rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-bottom: 2rem;
+}
+
+#TutoringLogo {
+    height: 7rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-bottom: 2rem;
+}
+
 #poster {
     height: 32rem;
     margin-left: 0rem;
@@ -106,13 +113,13 @@ body {
     border-radius: 4rem;
 
     position: absolute;
-    top: 66rem;
-    left: 5rem;
+    top: 70rem;
+    left: 6rem;
 }
 
 #vertical {
     border-left: 0.1rem solid black;
-    height: 76rem;
+    height: 80rem;
 
     position: absolute;
     top: 19.8rem;
@@ -218,7 +225,7 @@ hr {
     margin-left: 10rem;
 
     background-color: rgb(240, 240, 240);
-    height: 208rem;
+    height: 220rem;
     width: 85rem;
 
     border: 0.1rem solid silver;
@@ -291,9 +298,17 @@ hr {
     font-family: Verdana, Geneva, Tahoma, sans-serif;   
 }
 
+#introARL {
+    position: absolute;
+    top: 156rem;
+    left: 21.5rem;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 #introTutoring {
     position: absolute;
-    top: 155.4rem;
+    top: 166.8rem;
     left: 19rem;
 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -301,7 +316,7 @@ hr {
 
 #introGiant {
     position: absolute;
-    top: 165.5rem;
+    top: 176.8rem;
     left: 18.8rem;
 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -309,15 +324,15 @@ hr {
 
 #introCounseling {
     position: absolute;
-    top: 177rem;
-    left: 16.5rem;
+    top: 188.5rem;
+    left: 16.8rem;
 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #introALD {
     position: absolute;
-    top: 189rem;
+    top: 200.3rem;
     left: 18.3rem;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -330,7 +345,7 @@ hr {
 
 #introNSLS {
     position: absolute;
-    top: 200.3rem;
+    top: 211.5rem;
     left: 18.8rem;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
