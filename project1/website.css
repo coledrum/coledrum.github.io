@@ -108,14 +108,6 @@ body {
     border: 0.2rem double black;
 }
 
-#shell {
-    height: 10rem;
-    border-radius: 4rem;
-
-    top: 85rem;
-    right: 10rem;
-}
-
 #vertical {
     border-left: 0.1rem solid black;
     height: 80rem;
